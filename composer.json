@@ -1,6 +1,6 @@
 {
-    "name": "username/php-app",
-    "description": "PHP App",
+    "name": "username/symfony-console",
+    "description": "Symfony Console App",
     "license": "MIT",
     "type": "project",
     "authors": [

@@ -1,1 +1,1 @@
-# php-app-template
+# symfony-console-app-template

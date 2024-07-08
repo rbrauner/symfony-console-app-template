@@ -393,6 +393,6 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/composer,git,linux,macos,php-cs-fixer,phpstorm,phpstorm+all,phpstorm+iml,phpunit,vim,visualstudiocode,windows
 
-###> username/php-app ###
+###> username/symfony-console-app ###
 /.phpcs-cache
-###< username/php-app ###
+###< username/symfony-console-app ###

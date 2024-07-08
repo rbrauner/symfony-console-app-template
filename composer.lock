@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "54244e0edd9833875ecef5bd4deca9c8",
+    "content-hash": "38b46fb108cfadfbd7274683fb68f7f9",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -4906,12 +4906,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "2421193915f82554d942f901817c6355b38752a7"
+                "reference": "60e8a44b296abf980200622652d75a17df7849a8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/2421193915f82554d942f901817c6355b38752a7",
-                "reference": "2421193915f82554d942f901817c6355b38752a7",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/60e8a44b296abf980200622652d75a17df7849a8",
+                "reference": "60e8a44b296abf980200622652d75a17df7849a8",
                 "shasum": ""
             },
             "conflict": {
@@ -5426,7 +5426,7 @@
                 "shopware/core": "<6.5.8.8-dev|>=6.6.0.0-RC1-dev,<6.6.1",
                 "shopware/platform": "<6.5.8.8-dev|>=6.6.0.0-RC1-dev,<6.6.1",
                 "shopware/production": "<=6.3.5.2",
-                "shopware/shopware": "<6.2.3",
+                "shopware/shopware": "<=5.7.17",
                 "shopware/storefront": "<=6.4.8.1|>=6.5.8,<6.5.8.7-dev",
                 "shopxo/shopxo": "<2.2.6",
                 "showdoc/showdoc": "<2.10.4",
@@ -5706,7 +5706,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-07-08T15:04:46+00:00"
+            "time": "2024-07-08T19:04:26+00:00"
         },
         {
             "name": "sebastian/cli-parser",
