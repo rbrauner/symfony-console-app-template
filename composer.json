@@ -1,0 +1,46 @@
+{
+    "name": "username/php-app",
+    "description": "PHP App",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "username",
+            "email": "email@example.com"
+        }
+    ],
+    "require": {
+        "php": "8.3.9",
+        "composer/composer": "~2.7.7"
+    },
+    "require-dev": {
+        "enlightn/security-checker": "~2.0.0",
+        "ergebnis/composer-normalize": "~2.43.0",
+        "friendsofphp/php-cs-fixer": "~3.59.3",
+        "phpro/grumphp-shim": "~2.6.0",
+        "phpstan/extension-installer": "~1.4.1",
+        "phpstan/phpstan": "~1.11.7",
+        "phpstan/phpstan-phpunit": "~1.4.0",
+        "phpunit/phpunit": "~11.2.6",
+        "rector/rector": "~1.2.0",
+        "roave/security-advisories": "dev-latest",
+        "squizlabs/php_codesniffer": "~3.10.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "ergebnis/composer-normalize": true,
+            "phpro/grumphp-shim": true,
+            "phpstan/extension-installer": true
+        }
+    }
+}
