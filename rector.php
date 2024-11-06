@@ -15,7 +15,7 @@ use Rector\Set\ValueObject\SetList;
 
 return RectorConfig::configure()
     ->withPaths([
-        __DIR__.'/public',
+        __DIR__.'/bin',
         __DIR__.'/src',
         __DIR__.'/tests',
     ])

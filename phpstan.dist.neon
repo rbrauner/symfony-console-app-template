@@ -1,7 +1,7 @@
 parameters:
     level: 8
     paths:
-        - public/
+        - app/
         - src/
         - tests/
     excludePaths:
