@@ -448,5 +448,4 @@ $RECYCLE.BIN/
 
 ###> username/symfony-console-app ###
 /.env
-/compose.override.yaml
 ###< username/symfony-console-app ###
